@@ -28,22 +28,9 @@ Beyond academics, I spend a significant amount of time in **hands-on security la
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Rank%20%3C800-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/2507105)
 
 ---
-<p align="center">
 
-BADGES HERE
-
-</p>
-
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Dutt-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushdutt001)
-[![Medium](https://img.shields.io/badge/Medium-Cybersecurity%20Writeups-black?style=for-the-badge&logo=medium)](https://medium.com/@ayushdutt2001)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-grey?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1Rfdijl2ObT6r-A3TRKtotrNi7NmaAqfl/view)
-
-</p>
 ## What You'll Find Here
-
-- Security research and experimentation
+- Regular Projects (Vide coding)
 - CTF write-ups and exploitation notes
 - Secure system design experiments
 - Backend and systems programming projects
