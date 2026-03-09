@@ -13,20 +13,34 @@ Beyond academics, I spend a significant amount of time in **hands-on security la
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Dutt-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ayushdutt001)
-[![Medium](https://img.shields.io/badge/Medium-Cybersecurity%20Writeups-black?style=for-the-badge&logo=medium)]([YOUR_MEDIUM](https://medium.com/@ayushdutt2001))
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-grey?style=for-the-badge&logo=readthedocs)]([YOUR_RESUME_LINK](https://drive.google.com/file/d/1Rfdijl2ObT6r-A3TRKtotrNi7NmaAqfl/view?usp=drive_link))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Dutt-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushdutt001)
+
+[![Medium](https://img.shields.io/badge/Medium-Cybersecurity%20Writeups-black?style=for-the-badge&logo=medium)](https://medium.com/@ayushdutt2001)
+
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-grey?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1Rfdijl2ObT6r-A3TRKtotrNi7NmaAqfl/view?usp=drive_link)
 
 ---
 
 ## Security Platforms
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme)]([YOUR_THM_PROFILE](https://tryhackme.com/p/mark2001))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/mark2001)
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Rank%20%3C800-green?style=for-the-badge&logo=hackthebox)]([YOUR_HTB_PROFILE](https://app.hackthebox.com/users/2507105?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs))
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Rank%20%3C800-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/2507105)
 
 ---
+<p align="center">
 
+BADGES HERE
+
+</p>
+
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Dutt-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushdutt001)
+[![Medium](https://img.shields.io/badge/Medium-Cybersecurity%20Writeups-black?style=for-the-badge&logo=medium)](https://medium.com/@ayushdutt2001)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-grey?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/1Rfdijl2ObT6r-A3TRKtotrNi7NmaAqfl/view)
+
+</p>
 ## What You'll Find Here
 
 - Security research and experimentation
