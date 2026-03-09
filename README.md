@@ -1,85 +1,44 @@
-- 👋 Hi, I’m @KingSlayer2K1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Ayush Dutt
 
-<!---
-KingSlayer2K1/KingSlayer2K1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-abstract class Card
-{
-abstract void check(String s);
-}
-class MasterCard extends Card
-{
-public void check(String s)
-{
-int n=s.length();
-if(n==16)
-{
-if(s.charAt(0)=='5' && s.charAt(1)=='1' || s.charAt(1)=='2' || s.charAt(1)=='3' ||
-s.charAt(1)=='4' || s.charAt(1)=='5')
-{
-System.out.println("This MasterCard is Valid with card number : " + s);
-}
-}
-else
-{
-System.out.println("This MasterCard is not valid with card number : " + s);
-}
-}
-}
-class Visa extends Card
-{
-public void check(String s)
-{
-int n=s.length();
-if(n==13 || n==16)
-{
-if(s.charAt(0)=='4')
-{
-System.out.println("This Visa card is Valid with card number : " + s);
-}
-}
-else
-{
-System.out.println("This Visa card is not Valid with card number : " + s);
-}
-}
-}
-class AmericanExpress extends Card
-{
-public void check(String s)
-{
-int n=s.length();
-if(n==15)
-{
-if(s.charAt(0)=='3' && s.charAt(1)=='4' || s.charAt(1)=='7')
-{
-System.out.println("This American Express is Valid with card number : " + s);
-}
-}
-else
-{
-System.out.println("This American Express is not Valid with card number : " + s);
-}
-}
-}
-public class Program16
-{
-public static void main(String []args)
-{
-System.out.println("\t****************************************");
-System.out.println("Demonstrating of card problem using runtime polymorphism.");
-System.out.println("\t****************************************\n");
-Card obj;
-obj = new MasterCard();
-obj.check("5500000000000004");
-obj=new Visa();
-obj.check("4111111111111111");
-obj=new AmericanExpress();
-obj.check("5256667177788");
-}
-}
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;M.Tech+CSE+%40+IIT+Patna;Penetration+Testing+%7C+Secure+Systems;Breaking+things+to+understand+how+to+secure+them" />
+</p>
+
+I’m a cybersecurity enthusiast who enjoys understanding how systems fail and how they can be built more securely.  
+Currently pursuing **M.Tech in Computer Science at IIT Patna**, with a strong focus on **offensive security, secure system design, and real-world vulnerability analysis**.
+
+Beyond academics, I spend a significant amount of time in **hands-on security labs, CTF challenges, and exploring system internals** to understand how attackers think and how defenders should respond.
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Dutt-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Medium](https://img.shields.io/badge/Medium-Cybersecurity%20Writeups-black?style=for-the-badge&logo=medium)](YOUR_MEDIUM)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-grey?style=for-the-badge&logo=readthedocs)](YOUR_RESUME_LINK)
+
+---
+
+## Security Platforms
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%204%25-red?style=for-the-badge&logo=tryhackme)](YOUR_THM_PROFILE)
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Rank%20%3C800-green?style=for-the-badge&logo=hackthebox)](YOUR_HTB_PROFILE)
+
+---
+
+## What You'll Find Here
+
+- Security research and experimentation
+- CTF write-ups and exploitation notes
+- Secure system design experiments
+- Backend and systems programming projects
+- Occasional security insights and writeups
+
+---
+
+## Philosophy
+
+> “The best way to secure a system is to first understand how it breaks.”
+
+I enjoy exploring systems at a deeper level — from **network protocols and authentication flows to application security and system internals**.
